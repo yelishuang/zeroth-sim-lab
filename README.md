@@ -37,3 +37,4 @@
 ```bash
 git clone https://github.com/<你的用户名>/zeroth-sim-lab.git
 cd zeroth-sim-lab
+```
